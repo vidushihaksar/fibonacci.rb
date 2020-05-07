@@ -8,5 +8,4 @@ for i in (1..n)
   c = a+b;
   a =b;
   b=c;
-
 end
